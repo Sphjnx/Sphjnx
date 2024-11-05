@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yunus Temel
 ===================================================================================================================================
 
-Sybersecurity and Software Development
+Software Development
 --------------------------------------
 
-I'm Yunus Temel, a tech enthusiast with a focus on cybersecurity and software development.
+I'm Yunus Temel, a tech enthusiast with a focus on Autonomous Systems and software development.
 
 * 🌍  I'm based in İstanbul
 * 🖥️  See my portfolio at [yunustemel.com](http://yunustemel.com)
-* ✉️  You can contact me at [yt490245@gmail.com](mailto:yt490245@gmail.com)
-* 🧠  I'm learning web and software based attacks
-* 🤝  I'm open to collaborating on game and safety projects
+* ✉️  You can contact me at [yunustemel2003@hotmail.com](mailto:yunustemel2003@hotmail.com)
+* 🧠  I'm learning machine and deep learning 
+* 🤝  I'm open to collaborating on game and autonomous projects
 
 ### Skills
 
